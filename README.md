@@ -1,4 +1,4 @@
-# D&D Dice Report
+# D&D Dice Arduino Simulator
 
 ## Overview
 
